@@ -1,0 +1,16 @@
+# Ignore ML models
+*.h5
+*.pkl
+*.joblib
+
+# Ignore datasets
+*.csv
+*.zip
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore virtual env
+venv/
+env/
